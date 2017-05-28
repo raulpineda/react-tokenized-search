@@ -1,0 +1,40 @@
+.search-result {
+  border: 1px solid #333;
+  border-top: 0;
+  padding: 12px;
+  display: flex;
+}
+
+.search-result:hover {
+  background: #f0f0f0;
+  cursor: pointer;
+}
+
+.search-result__icon {
+  flex: 0 0 50px;
+  margin: 0;
+  padding: 0;
+  background: no-repeat center;
+  background-size: contain;
+}
+
+.search-result__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-result__content__headline {
+  font-size: 16px;
+  color: #111;
+}
+
+.search-result__content__tagline {
+  font-size: 12px;
+  font-style: italic;
+  color: #555;
+}
+
+.search-result:hover .search-result__content__headline {
+  color: #7a0307;
+
+}

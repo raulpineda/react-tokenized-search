@@ -1,0 +1,94 @@
+[
+  {
+    "id": 4,
+    "name": "Beef"
+  },
+  {
+    "id": 5,
+    "name": "Pasta"
+  },
+  {
+    "id": 8,
+    "name": "Lamb"
+  },
+  {
+    "id": 9,
+    "name": "Veal"
+  },
+  {
+    "id": 10,
+    "name": "Pork"
+  },
+  {
+    "id": 11,
+    "name": "Game (deer, venison)"
+  },
+  {
+    "id": 12,
+    "name": "Rich fish (salmon, tuna etc)"
+  },
+  {
+    "id": 13,
+    "name": "Shellfish"
+  },
+  {
+    "id": 15,
+    "name": "Spicy food"
+  },
+  {
+    "id": 16,
+    "name": "Sweet desserts"
+  },
+  {
+    "id": 17,
+    "name": "Mature and hard cheese"
+  },
+  {
+    "id": 19,
+    "name": "Vegetarian"
+  },
+  {
+    "id": 20,
+    "name": "Poultry"
+  },
+  {
+    "id": 21,
+    "name": "Any junk food will do"
+  },
+  {
+    "id": 27,
+    "name": "Apertizers and snacks"
+  },
+  {
+    "id": 28,
+    "name": "Lean fish"
+  },
+  {
+    "id": 34,
+    "name": "Mushrooms"
+  },
+  {
+    "id": 35,
+    "name": "Mild and soft cheese"
+  },
+  {
+    "id": 37,
+    "name": "Fruity desserts"
+  },
+  {
+    "id": 38,
+    "name": "Blue cheese"
+  },
+  {
+    "id": 39,
+    "name": "Goat cheese"
+  },
+  {
+    "id": 40,
+    "name": "Aperitif"
+  },
+  {
+    "id": 41,
+    "name": "Cured Meat"
+  }
+]

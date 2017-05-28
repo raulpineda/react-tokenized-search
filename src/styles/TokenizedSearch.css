@@ -1,0 +1,16 @@
+.tokenized-search {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.tokenized-search__input {
+  flex-basis: 100%;
+  padding: 20px;
+}
+
+.tokenized-search > .tokenized-search__results {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #a0a0a0;
+}
